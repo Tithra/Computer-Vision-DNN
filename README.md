@@ -1,2 +1,2 @@
 # SIT723
-All files here are desginated for SIT723 unit
+All files here are designated for SIT723 unit
