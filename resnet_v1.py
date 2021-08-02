@@ -17,7 +17,7 @@ from keras.preprocessing.image import ImageDataGenerator
 from keras.regularizers import l2
 from keras import backend as K
 from keras.models import Model
-from models.attention_module import attach_attention_module
+from attention_module import attach_attention_module
 
 def resnet_layer(inputs,
                  num_filters=16,
