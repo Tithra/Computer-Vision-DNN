@@ -1,0 +1,7 @@
+meeting minutes (09-Aug-2021)
+Supervisor comments:
+- Work on improving accuracy of the model
+- Produce experiment results of MobileNet using FER2013
+- Do literature search (comments during the week):
+	+ Find strategies of finetuning parameters
+	+ Find pre-processing techniques for effective facial expression recognition
