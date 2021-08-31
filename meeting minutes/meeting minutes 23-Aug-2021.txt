@@ -1,0 +1,4 @@
+meeting minutes (23-Aug-2021)
+Supervisor comments:
+- Try to experiment with 1 cycle learning rate using data augmentation and without augmentation
+- Construct CBAM + InceptionNet and experience under different settings of parameters
