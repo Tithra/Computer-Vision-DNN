@@ -1,0 +1,4 @@
+meeting minutes (06-Sep-2021)
+Supervisor comments:
+- The cross validation in the last experiment was not correct
+- Re-experiment of the model on Fer2013 using standard training & validation set with 200 epochs
