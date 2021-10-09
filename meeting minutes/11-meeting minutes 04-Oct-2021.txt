@@ -1,0 +1,6 @@
+meeting minutes (04-Oct-2021)
+Supervisor comments:
+- Add detail to the introduction section
+	+ General background of FER
+	+ Where is the gap?
+	+ What the project is trying to solve? 
