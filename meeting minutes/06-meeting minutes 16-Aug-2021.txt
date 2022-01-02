@@ -1,5 +1,0 @@
-meeting minutes (16-Aug-2021)
-Supervisor comments:
-- Resume drafting the literature
-- Experiment CBAM with CK+ dataset
-- Locating preprocessing techniques to improve performance in FER2013

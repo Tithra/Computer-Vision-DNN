@@ -1,6 +1,0 @@
-meeting minutes (13-Sep-2021)
-Supervisor comments:
-- Employ early stopping to get the best model before it overfits
-- Use 1-cycle learning rate
-- Pre-augmented data instead of real_time augmentation
-- Think of drafting the research report

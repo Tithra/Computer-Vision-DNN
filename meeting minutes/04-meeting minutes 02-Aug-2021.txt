@@ -1,8 +1,0 @@
-meeting minutes (02-Aug-2021)
-Supervisor comments:
-- check if CBAM is used in face detection
-- bring some results of CBAM with FER2013 next week
-- Add more parts into literature review:
-	- add to the top line: General emotions classification, facial expression, application of the face expression recognition
-	- Add reason of using attention technique/CBAM in literature
-	- add dataset section

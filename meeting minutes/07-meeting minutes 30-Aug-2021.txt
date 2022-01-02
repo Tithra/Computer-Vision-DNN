@@ -1,6 +1,0 @@
-meeting minutes (30-Aug-2021)
-Supervisor comments:
-- Create the parameter table for explaining the context of experiments
-- Literature review will be reviewed and feedbacked by Dr. Bahareh for dicussion
-- Looks for way to save the model's knowedge as a solution to extend cross folding validation up to 10
-- Implement pre-processing augmentation
