@@ -1,6 +1,6 @@
-This project experiment is objectively designed to use deep neural network to detect human basic emotions using facial expressions. "Research Report.pdf" provides the detail mechanism and performance evaluation of this new machine learning model, called CBAM, to performance the computer vision classification task. This machine learning model is open for public access. 
-
-How to use the artifact: </br>
+<h1>Human emotion detection using basic facial expressions</h1>
+This project experiment is objectively designed to use deep neural network to detect human basic emotions using facial expressions. "Research Report.pdf" provides the detail mechanism and performance evaluation of this new machine learning model, called CBAM, to performance the computer vision classification task. This machine learning model is open for public access.</br></br>
+<b>How to use the artifact:</b> </br>
 The artifact is based on Google Colab computing engine. To run a certain version of the artifact, you can follow below steps: </br>
 1-	Sign-in to Google Colab using a google account</br>
 2-	Upload all the dependent module to Google Colab “Files”</br>
@@ -10,5 +10,5 @@ For example, the training images and labels of FER2013 should look like:</br>
 “Colab Notebooks/SIT723/FER2013/x_train.csv”</br>
 “Colab Notebooks/SIT723/FER2013/y_train.csv”</br>
 5-	Now, run the artifact in the top-down order to avoid missing any dependent python packages</br>
-NOTE:</br>
+<b>NOTE:</b></br>
 The process of running the artifact may vary based on the internet speed, the fluctuation of GPU available, and the Google account type.
